@@ -1,0 +1,1 @@
+Today I learned how to use JavaScript variables and functions, change the background color with a button, and debug using console.log.
